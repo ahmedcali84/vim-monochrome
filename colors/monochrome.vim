@@ -24,7 +24,7 @@ let s:yellow = ['Yellow', 226]
 let s:red    = ['#b6403a', 160]
 let s:green  = ['#478226', 28]
 
-let s:default_fg = s:yellow
+let s:default_fg = s:white
 let s:default_bg = s:black
 
 let s:italic    = 'italic'
